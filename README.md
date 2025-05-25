@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://static1.squarespace.com/static/5f620c0f74f4087b09586bcb/5f626e5c52eae93ca6c2413c/66283e271e3ca93eabb148ce/1743434037232/IMG_2235-ezgif.com-resize-2.gif?format=1500w"  />
+  <img height="150" src="https://i.gifer.com/origin/07/0756824657c8688f969e87840a4f91ad_w200.gif"  />
 </div>
 
 ###
@@ -8,12 +8,6 @@
   <a href="https://www.instagram.com/euiguilherme/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=guihensoares.guihensoares&"  />
 </div>
 
 ###
